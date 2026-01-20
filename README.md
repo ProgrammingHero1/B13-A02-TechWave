@@ -85,7 +85,7 @@
 
 - **Desktop/Laptop/Large Device:**
   - Center-aligned layout with brand and platform information
-  - Copyright information with horizontal line separator
+  - Copyright information 
 - **Mobile Device:**
   - Responsive footer layout maintaining readability
 
